@@ -1,0 +1,7 @@
+{
+  "publish": {
+    "PACKAGE": "ntfs-3g",
+    "GH_USER": "jc21-rpm",
+    "VERSION": "2017.3.23"
+  }
+}
