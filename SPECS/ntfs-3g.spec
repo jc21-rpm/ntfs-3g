@@ -8,7 +8,7 @@
 Name:		ntfs-3g
 Summary:	Linux NTFS userspace driver
 Version:	2017.3.23
-Release:	11
+Release:	11%{?dist}
 License:	GPLv2+
 URL:		http://www.ntfs-3g.org/
 %if %{with_externalfuse}
